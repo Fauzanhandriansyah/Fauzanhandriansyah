@@ -1,4 +1,4 @@
-## Hi there i am Fauzan👋
+## Hi there, i am Fauzan👋
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/bxFkW5W3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fauzanhandriansyah) 
