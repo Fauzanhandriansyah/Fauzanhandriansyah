@@ -10,4 +10,8 @@
 ![](https://streak-stats.demolab.com/?user=Fauzanhandriansyah&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Fauzanhandriansyah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fauzanhandriansyah&bg_color=00000000&color=94A3B8&line=22D3EE&point=38BDF8&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
