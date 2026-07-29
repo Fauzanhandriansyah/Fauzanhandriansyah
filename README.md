@@ -11,7 +11,6 @@
 
 <div align="center">
   <a href="https://fauzanhandriansyah.netlify.app/" target="_blank">
-    <!-- Cukup panggil nama filenya langsung jika berada di folder yang sama -->
     <img width="100%" src="header2.svg" alt="Tech Stack" />
   </a>
 </div>
