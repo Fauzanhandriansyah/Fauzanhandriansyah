@@ -17,7 +17,7 @@
     95% { transform: translate(3px,-1px); opacity: .7; }
     97% { transform: translate(-2px,0); opacity: .5; }
   }
-  .clip1 rect { animation: type1 12s infinite; }
+  .clip1 rect { animation: type1 6s infinite; }
   
   /* PERBAIKAN 1: Lebar jangkauan teks dinaikkan ke 450px sesuai panjang teks baru */
   @keyframes type1 { 0%{width:0} 3%{width:0} 11%{width:450px} 27%{width:450px} 33%{width:0} 100%{width:0} }
