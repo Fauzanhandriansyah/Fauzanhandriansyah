@@ -7,7 +7,7 @@
 <img width="100%" src="https://raw.githubusercontent.com/Fauzanhandriansyah/Fauzanhandriansyah/main/header.svg" />
 <br/>
 <a href="https://instagram.com/fauzanhandriansyah"><img src="https://raw.githubusercontent.com/Fauzanhandriansyah/Fauzanhandriansyah/main/instagram.svg" height="78"/></a>
-<a href="https://discord.gg/bxFkW5W3"><img src="https://raw.githubusercontent.com/Fauzanhandriansyah/Fauzanhandriansyah/main/discord.svg" height="78"/></a>
+<a href="https://discord.gg/cpVAySTQ"><img src="https://raw.githubusercontent.com/Fauzanhandriansyah/Fauzanhandriansyah/main/discord.svg" height="78"/></a>
 
 <div align="center">
 <img width="100%" src="header2.svg" alt="Tech Stack" />
